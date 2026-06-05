@@ -1,29 +1,85 @@
-## Hi there 👋
+# GoAskBid
 
-<!--
-**Goaskbid/Goaskbid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building AI-powered tools that turn messy real-world data into decisions people can actually use.
 
-Here are some ideas to get you started:
+GoAskBid develops decision intelligence platforms across financial markets, locations, mobility, culture, tourism, and relationship networks.
 
-- 🔭 I’m currently working on ...
+Our products combine artificial intelligence, geospatial intelligence, public data, alternative data, network analysis, and data visualization to help people understand complex systems faster.
 
-Building free AI powered tools that turn messy real world data into decisions people can actually use. 
+## 📈 GoAskBid
 
-DipMapper, www.dipmapper.com, analyzes swimming spots using weather, water conditions, crowds, accessibility, parking, and local data, helping you find safe, woman or child friendly places to swim before you arrive 💦🏖️☀️ 
+https://www.goaskbid.com
 
-OpenArtLas, www.openartlas.com, maps culture and history around you using location based discovery and AI filtering, helping you find museums, galleries, architecture, and events actually worth your time and often even free of charge 🖼️🏰🎟️ 
+Global market sentiment and risk appetite dashboard tracking countries, sectors, factors, styles, equities, foreign exchange, rates, commodities, precious metals, and digital assets.
 
-CurveScout, www.curvescout.com, is an AI powered motorcycle route planner that finds enjoyable riding roads. The scout guides you there, and it has all the maps and waypoints for you, including information on safety, elevation, scenery, and road quality 🏍️⛰️⛽️ 
+The platform helps investors understand leadership, momentum, participation, market regimes, and capital flows across the global investment landscape. The current site focuses on a Global Fear & Greed Dashboard and broader cross-asset sentiment monitoring.
 
-ParlayMap, www.parlaymap.com, maps relationships between political leaders, corporate executives, meetings, organizations, and global influence networks to show who is linked to whom and which themes are actually trending 🌍✈️🤝 
+**Topics:** market sentiment, risk appetite, cross-asset analysis, sector rotation, factor investing, macro investing, investment research, asset allocation, market regimes
 
-Nestlyzer, www.nestlyzer.com, helps people decide where to live using real world location data and quality of life signals. The tool profiles and ranks municipalities across Europe and finds the right place for DINKS, young families, single pensioners, students, commuters, lottery winners, and many more profiles 🏡🚚📦
+---
 
-- 🌱 I’m currently learning ... a lot!
-- 👯 I’m looking to collaborate on ... backend, big data, OSINT, geospatial intelligence, etc.
-- 🤔 I’m looking for help with ... commercialisation, finishing, legal, etc.
-- 💬 Ask me about ... swimming spots near you :)
-- 📫 How to reach me: ... see impressums of my sites
-- 😄 Pronouns: ... he
-- ⚡ Fun fact: ... the future is an undiscovered country 
--->
+## 🌊 DipMapper
+
+https://www.dipmapper.com
+
+Swimming intelligence platform helping people discover beaches, lakes, rivers, thermal baths, and open-water swimming locations using weather, water conditions, crowds, accessibility, parking, and local intelligence.
+
+**Topics:** swimming spots, wild swimming, beaches, lakes, water conditions, travel, outdoor recreation
+
+---
+
+## 🏛️ OpenArtLas
+
+https://www.openartlas.com
+
+Culture and history discovery platform helping people find museums, galleries, architecture, historical landmarks, cultural events, and free attractions worth visiting.
+
+**Topics:** culture, museums, galleries, architecture, history, tourism, local discovery
+
+---
+
+## 🏍️ CurveScout
+
+https://www.curvescout.com
+
+Motorcycle route intelligence platform helping riders discover enjoyable roads using route geometry, scenery, elevation, road quality, safety signals, and navigation data.
+
+**Topics:** motorcycle routes, road trips, navigation, touring, scenic roads, route planning
+
+---
+
+## 🌍 ParlayMap
+
+https://www.parlaymap.com
+
+Relationship intelligence platform mapping political leaders, corporate executives, organizations, meetings, influence networks, and emerging global themes.
+
+**Topics:** network analysis, geopolitics, relationship intelligence, influence mapping
+
+---
+
+## 🏡 Nestlyzer
+
+https://www.nestlyzer.com
+
+Municipality intelligence platform helping people decide where to live using quality-of-life indicators, demographics, housing, mobility, taxation, education, safety, and local data.
+
+**Topics:** relocation, municipalities, quality of life, housing, demographics, location intelligence
+
+---
+
+## Focus Areas
+
+* Artificial Intelligence
+* Market Intelligence
+* Alternative Data
+* Geospatial Intelligence
+* Open Data
+* Network Analysis
+* Data Visualization
+* Location Intelligence
+* Decision Support Systems
+
+## Mission
+
+Build practical tools that help people make better decisions using real-world data.
